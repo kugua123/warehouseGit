@@ -13,7 +13,7 @@ import com.baomidou.mybatisplus.generator.engine.FreemarkerTemplateEngine;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+//代码生成器
 public class add {
 
     /**
