@@ -2,3 +2,4 @@
 my name is liuyang
 today is very happy
 
+git -c diff.mnemonicprefix=false -c core.quotepath=false --no-optional-locks commit -q -F C:\Users\86139\AppData\Local\Temp\cml0enql.jmoU	a.txterror: Committing is not possible because you have unmerged files.hint: Fix them up in the work tree, and then use 'git add/rm <file>'hint: as appropriate to mark resolution and make a commit.fatal: Exiting because of an unresolved conflict.
