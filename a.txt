@@ -1,4 +1,7 @@
 ﻿this is very good time
 my name is liuyang
 today is very happy
-
+错误:提交是不可能的，因为您有未合并的文件。
+提示:将它们修复到工作树中，然后使用“git add/rm <file>”
+提示:适当时标记分辨率并作出承诺。
+致命:因为未解决的冲突而离开。
