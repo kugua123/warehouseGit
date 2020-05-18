@@ -1,1 +1,7 @@
+<<<<<<< .merge_file_a10428
 this is very good time
+=======
+this is an text£¬this is very good time
+i will go home
+
+>>>>>>> .merge_file_a14528
